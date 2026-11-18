@@ -1,0 +1,14 @@
+package-as: SexyEditMode
+
+manual-changelog:
+  filename: CHANGELOG.md
+  markup-type: markdown
+
+ignore:
+  - CLAUDE.md
+  - README.md
+  - README.en.md
+  - .github
+  - tools
+  - curseforge
+  - icon.png
