@@ -2,6 +2,7 @@
 ## Version: 1.0.1
 ## Title: SexyEditMode
 ## Author: apnotix
+## X-Curse-Project-ID: 1815338
 ## Notes: Gemeinsames Einstellungsfenster und Edit-Mode-Bibliothek für die Sexy-Addons (SexyLoot, SexyQuestHelper, SexyInterrupter, SexyHarvester).
 ## Notes-enUS: Shared settings window and Edit Mode library for the Sexy addons (SexyLoot, SexyQuestHelper, SexyInterrupter, SexyHarvester).
 ## Category: Libraries
