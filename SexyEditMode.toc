@@ -1,5 +1,5 @@
 ## Interface: 120100, 16001
-## Version: 1.0.2
+## Version: 1.0.3
 ## Title: SexyEditMode
 ## Author: apnotix
 ## X-Curse-Project-ID: 1815338
