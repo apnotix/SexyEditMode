@@ -1,5 +1,5 @@
 ## Interface: 120100, 16001
-## Version: 1.0.3
+## Version: 1.0.4
 ## Title: |cffb48cffSexy|r|cffbd9affE|cffc7a9ffd|cffd0b7ffi|cffdac6fft|cffe3d4ffM|cffece2ffo|cfff6f1ffd|cffffffffe|r
 ## Author: apnotix
 ## X-Curse-Project-ID: 1815338
