@@ -1,11 +1,10 @@
 ## Interface: 120100, 16001
 ## Version: 1.0.3
-## Title: SexyEditMode
+## Title: |cffb48cffSexy|r|cffbd9affE|cffc7a9ffd|cffd0b7ffi|cffdac6fft|cffe3d4ffM|cffece2ffo|cfff6f1ffd|cffffffffe|r
 ## Author: apnotix
 ## X-Curse-Project-ID: 1815338
 ## Notes: Gemeinsames Einstellungsfenster und Edit-Mode-Bibliothek für die Sexy-Addons (SexyLoot, SexyQuestHelper, SexyInterrupter, SexyHarvester).
 ## Notes-enUS: Shared settings window and Edit Mode library for the Sexy addons (SexyLoot, SexyQuestHelper, SexyInterrupter, SexyHarvester).
-## Category: Libraries
 ## IconTexture: Interface\AddOns\SexyEditMode\icon.tga
 ## DefaultState: Enabled
 ## LoadOnDemand: 0
@@ -17,4 +16,8 @@ Libs\LibDataBroker-1.1\LibDataBroker-1.1.lua
 Libs\LibDBIcon-1.0\LibDBIcon-1.0.lua
 
 SexyEditMode.lua
+Clone.lua
 Hub.lua
+Profiles.lua
+News.lua
+NewsData.lua
